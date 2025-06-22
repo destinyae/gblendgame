@@ -10,4 +10,4 @@ try: https://gblendgame.netlify.app
 
 ![fluent](https://github.com/user-attachments/assets/f7026cde-7cb1-4cfa-905e-2f0fcf464eb6)
 
-Score above 100+ and Mint a gBlend NFT on Fluent Devnet Network.
+Score above 100 threshold and Mint a gBlend NFT on Fluent Devnet Network.
