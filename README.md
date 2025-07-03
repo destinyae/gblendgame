@@ -1,6 +1,6 @@
 # Gblendgame 🎨
 
-“Performance is no longer the limiting factor; it’s what developers can express.”
+**“Performance is no longer the limiting factor; it’s what developers can express.”**
 
 The era of Expressivity and Execution.
 
@@ -10,4 +10,6 @@ try: https://gblendgame.netlify.app
 
 ![fluent](https://github.com/user-attachments/assets/f7026cde-7cb1-4cfa-905e-2f0fcf464eb6)
 
-Score above 100 threshold and Mint a gBlend NFT on Fluent Devnet Network.
+_Score above 100 threshold and Mint a gBlend NFT on Fluent Devnet Network._
+
+fluent: 
